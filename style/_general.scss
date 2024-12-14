@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(./font/Inter-VariableFont_opsz\,wght.eot),
+    url(./font/Inter-VariableFont_opsz\,wght.otf),
+    url(./font/Inter-VariableFont_opsz\,wght.ttf),
+    url(./font/Inter-VariableFont_opsz\,wght.woff),
+    url(./font/Inter-VariableFont_opsz\,wght.woff2);
+}
+
+.container{
+    max-width: 1440px;
+    width: 100%;
+    padding: 0 60px;
+    margin: 0 auto;
+}
+
+
